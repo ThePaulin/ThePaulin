@@ -4,7 +4,7 @@
 **ThePaulin/ThePaulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
--->
+
 
 [linkedin]: https://www.linkedin.com/in/paulin-kubwira-249489228/
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, JavaScript, HTML, CSS, Node JS, Express JS
 - 📫 How to reach me: [linkedin]
 
+-->
